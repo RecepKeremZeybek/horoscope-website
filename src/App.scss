@@ -1,0 +1,14 @@
+@import "./scss/mixins";
+@import "./scss/reset";
+@import "./scss/variables";
+
+
+body{
+  //font famly eklenecek
+
+  background-image: $backgroundImage;
+  height: 100vh;
+  background-attachment: fixed;
+  
+
+}
